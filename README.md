@@ -3,14 +3,14 @@
 
 ###
 
-<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
+<img align="right" height="160" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 
 ###
 - 🔭 I'm currently working on **Exploring data structures in C for my Data Science foundation**
   
-- 🌱 I'm currently learning **Python, Data Science fundamentals, Git**  
+- 🌱 I'm currently learning **Python, Data Science fundamentals, Git**
 
-- 💬 Ask me about **C, Git**
+- 💬 Ask me about **C,Python, Git**
 
 - 📫 How to reach me **via GitHub**
 
