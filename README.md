@@ -3,7 +3,7 @@
 
 ###
 
-<img align="right" height="160" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+<img align="right" height="160" src="analytics.png"  />
 
 ###
 - 🔭 I'm currently working on **Exploring data structures in C for my Data Science foundation**
