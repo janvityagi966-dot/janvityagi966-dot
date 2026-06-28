@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Janvi Tyagi</h1>
+<h3 align="center">An aspiring Data Scientist from India</h3>
 
-<!--
-**janvityagi966-dot/janvityagi966-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+- 🔭 I'm currently working on **Exploring data structures in C for my Data Science foundation**
+  
+- 🌱 I'm currently learning **Python, Data Science fundamentals, Git**
+
+- 💬 Ask me about **C, Git**
+
+- 📫 How to reach me **via GitHub**
+
+<h3 align="left">Connect with me:</h3> 
+<p align="left">
+  <a href="https://github.com/janvityagi966-dot" target="blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="github" />
+  </a><br>
+  <a href="https://github.com/janvityagi966-dot">GitHub: @janvityagi966-dot</a>
+</p> 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,git,github" />
+  </a>
+</p>
