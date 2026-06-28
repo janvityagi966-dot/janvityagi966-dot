@@ -8,7 +8,7 @@
 ###
 - 🔭 I'm currently working on **Exploring data structures in C for my Data Science foundation**
   
-- 🌱 I'm currently learning **Python, Data Science fundamentals, Git**
+- 🌱 I'm currently learning **Python, Data Science fundamentals, Git**  
 
 - 💬 Ask me about **C, Git**
 
